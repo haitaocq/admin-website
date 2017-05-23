@@ -1,6 +1,6 @@
-# vue-admin
+# admin-website
 
-> A Vue.js project
+> A Vue.js project with vuex vue-router iview
 
 ## Build Setup
 
